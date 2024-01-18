@@ -1,0 +1,90 @@
+@import url("https://fonts.googleapis.com/css2?family=Sevillana&family=Tangerine:wght@400;700&display=swap");
+
+
+body {
+    background: linear-gradient(82deg,#edf435ee,#33f6f3f0);
+}
+
+
+#div1 {
+    width: 100%;
+    margin: auto;
+    height: 218px;
+    position: relative;
+}
+
+#div1 .name {
+	font-family: "Tangerine", cursive;
+	font-weight: 700;
+    color: rgb(17, 35, 197);
+	font-style: normal;
+    font-size: 41px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#div1 .i {
+    font-family: "Roboto";
+    color: #f2813b;
+    position: absolute;
+    top: 25%;
+    left: 45%;
+}
+
+#div1 .here {
+    font-family: "Ogg";
+    color: #0981a6;
+    position: absolute;
+    top: 50%;
+    left: 52%;
+    
+}
+
+img {
+    position: absolute;
+    top: 3.8%;
+    right: 62%;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-style: groove;
+}
+
+#div2 {
+width: 100%;
+    margin: auto;
+    height: 218px;
+    position: relative;
+}
+
+#div2 .b {
+    font-family: "Ogg";
+    color: rgb(104, 77, 20);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+#div2 .u {
+    position: absolute;
+    right: 41%;
+    top: 20%;
+}
+
+#div3 {
+    font-size: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#div4 {
+    font-size: 500;
+    font-family: "Roboto";
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
